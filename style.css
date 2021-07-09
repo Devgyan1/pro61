@@ -1,0 +1,75 @@
+#map iframe {
+    width: 45%;
+    float: left;
+    padding-top: 10px;
+}
+
+#1p {
+    color: black;
+}
+
+.x {
+    color: black;
+    font-family: 'Zilla Slab', serif;
+    text-decoration: underline;
+}
+
+body {
+    text-align: center;
+}
+
+#s1 {
+    background: linear-gradient(#ffe600 0%, #fc5a23 100%);
+    height: 550px;
+}
+
+#s2 {
+    background: linear-gradient(#0062ff 0%, #000966 100%);
+    height: 300px;
+    padding: 50px;
+}
+
+#s3 {
+    background: linear-gradient(#10eb05 0%, #065402 100%);
+    height: 2000px;
+    padding: 50px;
+}
+
+#s4 {
+    background: linear-gradient(180deg, white, #2A3132);
+    height: 600px;
+    padding: 50px;
+}
+
+#s5 {
+    background: linear-gradient(#ff0505 0%, #a10000 100%);
+    height: 600px;
+    padding: 50px;
+}
+
+#s6 {
+    background: linear-gradient(#fff200 0%, #756f01 100%);
+    height: 600px;
+    padding: 50px;
+}
+
+#s7 {
+    background: linear-gradient(#00ffdd 0%, #01473e 100%);
+    height: 600px;
+    padding: 50px;
+}
+
+#x2 {
+    padding-top: 10px;
+    height: 300px;
+    width: 200px;
+}
+
+.games {
+    height: 300px;
+    width: 300px;
+}
+
+img {
+    height: 100;
+}
